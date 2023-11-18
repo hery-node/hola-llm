@@ -38,3 +38,7 @@ npm run serve
 - Launch the brower and access the url: http://localhost:8080/
 
 We provide two users: one is admin with admin role to manage users and another is demo as normal user role. All of them password is pwd4llm
+
+Below is the screen shot for HOLA-LLM
+
+![screenshot for HOLA-LLM](screen.png?raw=true "Screen Shot for the HOLA-LLM")
