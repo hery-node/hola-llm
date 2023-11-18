@@ -43,7 +43,6 @@ module.exports = init_router({
         { name: "model", type: "string", ref: "model" },
         { name: "script", type: "string", ref: "bash", required: true },
         { name: "record", type: "string", list: false, search: false },
-        { name: "measure", type: "array", ref: "measure", search: false, list: false },
         // below are property used for system
         { name: "progress", type: "progress", create: false, search: false },
         //user can stop the task when needed
