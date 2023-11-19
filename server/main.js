@@ -22,5 +22,5 @@ init_express_server(__dirname, "service_port", async () => {
     }
 
     init_web_socket_server();
-    console.log("main server is successfully started");
+    console.log("llm main server is successfully started");
 });
